@@ -15,17 +15,17 @@ Ubuntu Server 相对 Debian Stable 来说组件比较新（因为Ubuntu是基于
 Windows：PuTTY、Xshell、WSL 里面的 SSH 命令。
 GNU/Linux、OSX、及其他：使用ssh命令，ssh <vps的IP>
 
-![1](http://imgsrc.baidu.com/forum/w%3D580/sign=2a105e84d9c8a786be2a4a065709c9c7/3ab277f40ad162d9fddc9c6219dfa9ec8b13cddc.jpg)
+![1](https://raw.githubusercontent.com/UbuntuBar/userguide/master/image/使用UbuntuServer建立一个属于自己的个人网站(A+P+M+W)/1.png)
 
 ## 第三步 基本的设置。
 ### 3.1 更新源。
 输入 apt-get update 进行更新
-![2](http://imgsrc.baidu.com/forum/w%3D580/sign=da04b4706f09c93d07f20effaf3df8bb/ca695b2c11dfa9ec9900a8696ad0f703908fc1d8.jpg)
+![2](https://raw.githubusercontent.com/UbuntuBar/userguide/master/image/使用UbuntuServer建立一个属于自己的个人网站(A+P+M+W)/2.png)
 
 ## 第四步 安装必备的服务器组件。
 ### 4.1 安装Apache2
 我这里用的是Apache2，当然你也可以选择Nginx之类的工具。
-![3](http://imgsrc.baidu.com/forum/w%3D580/sign=4eaf972e3ca85edffa8cfe2b795509d8/ceb97f8da977391241857b1ff0198618377ae26c.jpg)
+![3](https://raw.githubusercontent.com/UbuntuBar/userguide/master/image/使用UbuntuServer建立一个属于自己的个人网站(A+P+M+W)/3.png)
 
 ### 4.2 安装数据库
 apt-get install mysql-server
@@ -33,7 +33,7 @@ apt-get install mysql-server
 
 这时，系统会提示输入MySQL密码，自己输入一个比较复杂的密码即可（当然你需要记住）
 
-![4](http://imgsrc.baidu.com/forum/w%3D580/sign=93ce6105d91373f0f53f6f97940e4b8b/630fc5ea15ce36d397b47a4e32f33a87e850b152.jpg)
+![4](https://raw.githubusercontent.com/UbuntuBar/userguide/master/image/使用UbuntuServer建立一个属于自己的个人网站(A+P+M+W)/4.png)
 
 ### 4.3 安装PHP
 16.04默认用的是php7，这里演示用的也是php7，14.04是php5（搭博客基本上看不出有什么区别，当然肯定是有区别的）
@@ -50,7 +50,7 @@ apt-get install php-mysql
 ### 5.1 首先要更改apache设置
 nano /etc/apache2/sites-available/000-default.conf
 把方框里的/var/www/html改成/var/www，然后按Ctrl+X保存退出
-![5](http://imgsrc.baidu.com/forum/w%3D580/sign=a8909ba93ed12f2ece05ae687fc3d5ff/f02fdd43ad4bd113a08c4d4c52afa40f4afb0541.jpg)
+![5](https://raw.githubusercontent.com/UbuntuBar/userguide/master/image/使用UbuntuServer建立一个属于自己的个人网站(A+P+M+W)/5.png)
 
 ### 5.2 重新启动Apache
 service apache2 restart
@@ -83,10 +83,10 @@ mysql -u root -p
 在浏览器里输入你的vps ip地址，点击下一步。
 
 输入相应信息。
-![6](http://imgsrc.baidu.com/forum/w%3D580/sign=77d4c2765b43fbf2c52ca62b807fca1e/fb47f0039245d68865b755daacc27d1ed31b2455.jpg)
+![6](https://raw.githubusercontent.com/UbuntuBar/userguide/master/image/使用UbuntuServer建立一个属于自己的个人网站(A+P+M+W)/6.png)
 
 #### 5.3.8 进一步设置
-![7](http://imgsrc.baidu.com/forum/w%3D580/sign=b743e7e656df8db1bc2e7c6c3923dddb/4b37a5773912b31b5b722b578e18367adbb4e1e9.jpg)
+![7](https://raw.githubusercontent.com/UbuntuBar/userguide/master/image/使用UbuntuServer建立一个属于自己的个人网站(A+P+M+W)/7.png)
 
 ### 5.3.9 OK
 现在你的网站就搭建好了，现在就可以用了。
