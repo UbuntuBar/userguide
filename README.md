@@ -27,6 +27,8 @@
 
 6. [解决 Ubuntu 17.10 及之后的版本 GNOME 桌面没有托盘的问题](https://github.com/UbuntuBar/userguide/blob/master/system/%E8%A7%A3%E5%86%B317.10%E5%8F%8A%E4%B9%8B%E5%90%8E%E7%9A%84%E7%89%88%E6%9C%AC%E9%BB%98%E8%AE%A4%E6%A1%8C%E9%9D%A2%E6%B2%A1%E6%9C%89%E6%89%98%E7%9B%98%E7%9A%84%E9%97%AE%E9%A2%98.md)
 
+7. [修复 Ubuntu 系统引导](https://github.com/UbuntuBar/userguide/blob/master/system/%E7%B3%BB%E7%BB%9F%E5%BC%95%E5%AF%BC%E4%BF%AE%E5%A4%8D%E6%95%99%E7%A8%8B.md)
+
 ## 文档授权
 本指南以 CC-BY-NC-SA 许可发布，欢迎按照规定进行转载和修改。
 
