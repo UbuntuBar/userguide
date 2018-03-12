@@ -29,6 +29,8 @@
 
 7. [修复 Ubuntu 系统引导](https://github.com/UbuntuBar/userguide/blob/master/system/%E7%B3%BB%E7%BB%9F%E5%BC%95%E5%AF%BC%E4%BF%AE%E5%A4%8D%E6%95%99%E7%A8%8B.md)
 
+8. [解决启动卡死、关机死机的方法](https://github.com/UbuntuBar/userguide/blob/master/starter/%E8%A7%A3%E5%86%B3%E5%85%B3%E6%9C%BA%E6%97%B6%E5%8D%A1%E6%AD%BB%E3%80%81%E5%BC%80%E6%9C%BA%E5%8D%A1%E5%B1%8F%E7%9A%84%E6%96%B9%E6%B3%95.md)
+
 ## 文档授权
 本指南以 CC-BY-NC-SA 许可发布，欢迎按照规定进行转载和修改。
 
