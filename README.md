@@ -29,7 +29,7 @@
 
 4. [解决在 VMWare 中安装程序窗口过大的办法](https://github.com/UbuntuBar/userguide/blob/master/starter/%E8%A7%A3%E5%86%B3%E5%9C%A8VMWare%E4%B8%AD%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F%E7%AA%97%E5%8F%A3%E8%BF%87%E5%A4%A7%E7%9A%84%E6%96%B9%E6%B3%95.md)
 
-5. [Ubuntu 常用软件推荐](https://github.com/UbuntuBar/userguide/blob/master/starter/%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8.md)
+5. [Ubuntu 常用软件推荐](https://github.com/UbuntuBar/userguide/blob/master/starter/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90.md)
 
 6. [下载后点击即可使用的 WineQQ](https://github.com/UbuntuBar/userguide/blob/master/software/Appimage%E6%A0%BC%E5%BC%8F%E7%9A%84WineQQ.md)
 
