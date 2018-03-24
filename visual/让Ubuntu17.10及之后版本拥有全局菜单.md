@@ -2,14 +2,13 @@
 
 17.10 及之后的版本因默认切换至 GNOME 桌面，所以没有全局菜单，这让很多 Unity 用户很不适应，不过，我们可以通过安装 GNOME Global AppMenu 插件的方式解决。
 
+![1](https://raw.githubusercontent.com/UbuntuBar/userguide/master/image/%E8%AE%A9Ubuntu17.10%E5%8F%8A%E4%B9%8B%E5%90%8E%E7%89%88%E6%9C%AC%E6%8B%A5%E6%9C%89%E5%85%A8%E5%B1%80%E8%8F%9C%E5%8D%95/1.png)
 
 ## 安装方法
 
 1. 首先，请打开终端，输入 <code>sudo -s</code> 获取 root 权限。
 
-2. 第二步，我们需要安装几个软件,不过在安装之前先刷新一下软件源为好。
-
-输入 <code>sudo apt-get update</code>
+2. 第二步，我们需要安装几个软件,不过在安装之前先刷新一下软件源为好，请输入 <code>sudo apt-get update</code>。
 
 3. 安装软件：<code>apt-get install git gnome-tweak-tool</code>
 
@@ -25,6 +24,5 @@ Git 是一款免费、开源的分布式版本控制系统，我们这里用来�
 
 8. 成功后删除主文件夹下的项目文件夹，打开终端输入 <code>sudo rm -rf Gnome-Global-AppMenu</code>
 
-———— 另外 ————
-
+## 另外
 由于系统默认启用了应用程序菜单的扩展，导致样子不好看，我们需要在 Teaks 中禁用该扩展，禁用后也需要注销重新登录。
