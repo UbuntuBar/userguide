@@ -10,8 +10,8 @@
 
 # 内容说明
 
-1. [新手请看这些文档](#xinshou)
-2. [ubuntu指南详情](#zhinan)
+1. [新手请看这些文档](#新手请看)
+2. [ubuntu指南详情](#ubuntu指南)
 
 |内容|说明|
 |:---:|:---|
@@ -59,7 +59,7 @@
 
 14. [修复 Ubuntu 系统引导](https://github.com/UbuntuBar/userguide/blob/master/system/%E7%B3%BB%E7%BB%9F%E5%BC%95%E5%AF%BC%E4%BF%AE%E5%A4%8D%E6%95%99%E7%A8%8B.md)
 
-# ubuntu指南{#zhinan}
+# ubuntu指南
 
 ## 系统安装和维护
 
