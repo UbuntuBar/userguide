@@ -4,12 +4,15 @@
 
 如果想查看说明文档的其他部分（比如内容说明板块和新手请看板块），请点击 “View all of README.md”。
 
-
 为了方便 Ubuntu 吧吧友及其他 GNU/Linux 用户，我们在这里建了一份用户指南。
 
 如果您有什么建议或想改进本指南 ，欢迎给我们发 issue 和 pull request，我们将尽快回应。
 
-## 内容说明
+# 内容说明
+
+1. [新手请看这些文档](#xinshou)
+2. [ubuntu指南详情](#zhinan)
+
 |内容|说明|
 |:---:|:---|
 |starter|Ubuntu 入门，比如系统下载和安装。|
@@ -20,8 +23,13 @@
 |image|存放指南所需的一些图片文件|
 |other|其他信息|
 
-## 新手请看
+# 新手请看{xinshou}
+
+## 请学会提问以及搜索问题
+
 1. [提问的智慧-如何正确提问](https://github.com/UbuntuBar/userguide/blob/master/other/How-To-Ask-Questions-The-Smart-Way/README-zh_CN.md)
+
+## 体验或安装ubuntu
 
 2. [我该怎样运行 Ubuntu，实体机安装还是虚拟机安装还是使用 Win10 下的 Linux 子系统](https://github.com/UbuntuBar/userguide/blob/master/starter/%E6%88%91%E8%AF%A5%E6%80%8E%E6%A0%B7%E8%BF%90%E8%A1%8CUbuntu%EF%BC%88%E5%AE%9E%E4%BD%93%E6%9C%BA%E3%80%81%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%BF%98%E6%98%AFWin10%E4%B8%8B%E7%9A%84Linux%E5%AD%90%E7%B3%BB%E7%BB%9F%EF%BC%89.md)
 
@@ -37,6 +45,8 @@
 
 8. [解决在 VMWare 中安装程序窗口过大的办法](https://github.com/UbuntuBar/userguide/blob/master/starter/%E8%A7%A3%E5%86%B3%E5%9C%A8VMWare%E4%B8%AD%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F%E7%AA%97%E5%8F%A3%E8%BF%87%E5%A4%A7%E7%9A%84%E6%96%B9%E6%B3%95.md)
 
+## 新手使用ubuntu时常见问题
+
 9. [Ubuntu 常用软件推荐](https://github.com/UbuntuBar/userguide/blob/master/starter/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90.md)
 
 10. [下载后点击即可使用的 WineQQ](https://github.com/UbuntuBar/userguide/blob/master/software/Appimage%E6%A0%BC%E5%BC%8F%E7%9A%84WineQQ.md)
@@ -49,8 +59,19 @@
 
 14. [修复 Ubuntu 系统引导](https://github.com/UbuntuBar/userguide/blob/master/system/%E7%B3%BB%E7%BB%9F%E5%BC%95%E5%AF%BC%E4%BF%AE%E5%A4%8D%E6%95%99%E7%A8%8B.md)
 
-## 文档授权
+# ubuntu指南{#zhinan}
+
+## 系统安装和维护
+
+## 系统美化
+
+## 应用软件
+
+## 软硬件问题
+
+## 其他
+# 文档授权
 本指南以 CC-BY-NC-SA 许可发布，欢迎按照规定进行转载和修改。
 
-## 鸣谢作者
+# 鸣谢作者
 指南中会有一些转载自别的地方的内容，在此对原作者表示感谢。
