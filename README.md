@@ -65,7 +65,7 @@
 15. [给 rm 命令添加回收站](https://github.com/UbuntuBar/userguide/blob/master/system/%E7%BB%99rm%E5%91%BD%E4%BB%A4%E6%B7%BB%E5%8A%A0%E5%9B%9E%E6%94%B6%E7%AB%99.md)
 
 ## 系统美化
-16. 关于 GNOME 的美化和折腾
+16. [关于 GNOME 的美化和折腾](https://github.com/UbuntuBar/userguide/blob/master/visual/%E5%85%B3%E4%BA%8EGNOME%E7%9A%84%E7%BE%8E%E5%8C%96%E5%92%8C%E6%8A%98%E8%85%BE.md)
 
 ## 应用软件
 17. [WPS Office 安装配置完全解析](https://github.com/UbuntuBar/userguide/blob/master/software/WPSOffice%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%9E%90.md)
