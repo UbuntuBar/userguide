@@ -62,16 +62,24 @@
 # ubuntu指南
 
 ## 系统安装和维护
+15. [给 rm 命令添加回收站](https://github.com/UbuntuBar/userguide/blob/master/system/%E7%BB%99rm%E5%91%BD%E4%BB%A4%E6%B7%BB%E5%8A%A0%E5%9B%9E%E6%94%B6%E7%AB%99.md)
 
 ## 系统美化
+16. 关于 GNOME 的美化和折腾
 
 ## 应用软件
+17. [WPS Office 安装配置完全解析](https://github.com/UbuntuBar/userguide/blob/master/software/WPSOffice%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%9E%90.md)
+
+18. [关于 Linux 下网易云音乐 1.1 出问题的解决方案](https://github.com/UbuntuBar/userguide/blob/master/software/%E5%85%B3%E4%BA%8ELinux%E4%B8%8B%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%901.1.0%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
+
+19. [分区克隆工具 Partclone](https://github.com/UbuntuBar/userguide/blob/master/software/%E5%88%86%E5%8C%BA%E5%85%8B%E9%9A%86%E5%B7%A5%E5%85%B7Partclone.md)
 
 ## 软硬件问题
 
 ## 其他
+
 # 文档授权
-若无特别说明，本文档中的内容以 MIT 许可证发布。
+若无特别说明，本文档中的内容以 MIT 许可证发布。若您发现本文档中的内容侵犯到了您的合法权益，欢迎提交反馈，我们将尽快改正。
 
 # 鸣谢作者
 指南中会有一些转载自别的地方的内容，在此对原作者表示感谢。
