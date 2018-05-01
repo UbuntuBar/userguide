@@ -74,6 +74,8 @@
 
 19. [分区克隆工具 Partclone](https://github.com/UbuntuBar/userguide/blob/master/software/%E5%88%86%E5%8C%BA%E5%85%8B%E9%9A%86%E5%B7%A5%E5%85%B7Partclone.md)
 
+20. [CoCoMusic —— 适用于 Linux 的开源版 QQ 音乐(https://github.com/UbuntuBar/userguide/blob/master/software/CoCoMusic-%E9%80%82%E7%94%A8%E4%BA%8ELinux%E7%9A%84%E5%BC%80%E6%BA%90%E7%89%88QQ%E9%9F%B3%E4%B9%90.md)
+
 ## 软硬件问题
 
 ## 其他
