@@ -41,40 +41,42 @@
 
 6. [UEFI 下的 Windows 10 与 Ubuntu 16.04.1 共存安装教程](https://github.com/UbuntuBar/userguide/blob/master/starter/UEFI%E4%B8%8BWin10-Ubuntu%E5%8F%8C%E7%B3%BB%E7%BB%9F%E5%85%B1%E5%AD%98%E6%95%99%E7%A8%8B.md)
 
-7. [解决 Ubuntu 安装程序提示找不到硬盘的办法](https://github.com/UbuntuBar/userguide/blob/master/starter/%E8%A7%A3%E5%86%B3%E6%97%A0%E6%B3%95%E8%AF%86%E5%88%AB%E7%A1%AC%E7%9B%98%E7%9A%84%E5%8A%9E%E6%B3%95.md)
+7. [在 Mac 上运行 Ubuntu](https://github.com/UbuntuBar/userguide/blob/master/system/在Mac下运行Ubuntu.md)
 
-8. [解决在 VMWare 中安装程序窗口过大的办法](https://github.com/UbuntuBar/userguide/blob/master/starter/%E8%A7%A3%E5%86%B3%E5%9C%A8VMWare%E4%B8%AD%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F%E7%AA%97%E5%8F%A3%E8%BF%87%E5%A4%A7%E7%9A%84%E6%96%B9%E6%B3%95.md)
+8. [解决 Ubuntu 安装程序提示找不到硬盘的办法](https://github.com/UbuntuBar/userguide/blob/master/starter/%E8%A7%A3%E5%86%B3%E6%97%A0%E6%B3%95%E8%AF%86%E5%88%AB%E7%A1%AC%E7%9B%98%E7%9A%84%E5%8A%9E%E6%B3%95.md)
+
+9. [解决在 VMWare 中安装程序窗口过大的办法](https://github.com/UbuntuBar/userguide/blob/master/starter/%E8%A7%A3%E5%86%B3%E5%9C%A8VMWare%E4%B8%AD%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F%E7%AA%97%E5%8F%A3%E8%BF%87%E5%A4%A7%E7%9A%84%E6%96%B9%E6%B3%95.md)
 
 ## 新手使用ubuntu时常见问题
 
-9. [Ubuntu 常用软件推荐](https://github.com/UbuntuBar/userguide/blob/master/starter/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90.md)
+10. [Ubuntu 常用软件推荐](https://github.com/UbuntuBar/userguide/blob/master/starter/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90.md)
 
-10. [下载后点击即可使用的 WineQQ](https://github.com/UbuntuBar/userguide/blob/master/software/Appimage%E6%A0%BC%E5%BC%8F%E7%9A%84WineQQ.md)
+11. [下载后点击即可使用的 WineQQ](https://github.com/UbuntuBar/userguide/blob/master/software/Appimage%E6%A0%BC%E5%BC%8F%E7%9A%84WineQQ.md)
 
-11. [Ubuntu 常见终端命令](https://github.com/UbuntuBar/userguide/blob/master/starter/%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8.md)
+12. [Ubuntu 常见终端命令](https://github.com/UbuntuBar/userguide/blob/master/starter/%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8.md)
 
-12. [解决启动卡死、关机死机的方法](https://github.com/UbuntuBar/userguide/blob/master/starter/%E8%A7%A3%E5%86%B3%E5%85%B3%E6%9C%BA%E6%97%B6%E5%8D%A1%E6%AD%BB%E3%80%81%E5%BC%80%E6%9C%BA%E5%8D%A1%E5%B1%8F%E7%9A%84%E6%96%B9%E6%B3%95.md)
+13. [解决启动卡死、关机死机的方法](https://github.com/UbuntuBar/userguide/blob/master/starter/%E8%A7%A3%E5%86%B3%E5%85%B3%E6%9C%BA%E6%97%B6%E5%8D%A1%E6%AD%BB%E3%80%81%E5%BC%80%E6%9C%BA%E5%8D%A1%E5%B1%8F%E7%9A%84%E6%96%B9%E6%B3%95.md)
 
-13. [解决 Ubuntu 17.10 及之后的版本 GNOME 桌面没有托盘的问题](https://github.com/UbuntuBar/userguide/blob/master/system/%E8%A7%A3%E5%86%B317.10%E5%8F%8A%E4%B9%8B%E5%90%8E%E7%9A%84%E7%89%88%E6%9C%AC%E9%BB%98%E8%AE%A4%E6%A1%8C%E9%9D%A2%E6%B2%A1%E6%9C%89%E6%89%98%E7%9B%98%E7%9A%84%E9%97%AE%E9%A2%98.md)
+14. [解决 Ubuntu 17.10 及之后的版本 GNOME 桌面没有托盘的问题](https://github.com/UbuntuBar/userguide/blob/master/system/%E8%A7%A3%E5%86%B317.10%E5%8F%8A%E4%B9%8B%E5%90%8E%E7%9A%84%E7%89%88%E6%9C%AC%E9%BB%98%E8%AE%A4%E6%A1%8C%E9%9D%A2%E6%B2%A1%E6%9C%89%E6%89%98%E7%9B%98%E7%9A%84%E9%97%AE%E9%A2%98.md)
 
-14. [修复 Ubuntu 系统引导](https://github.com/UbuntuBar/userguide/blob/master/system/%E7%B3%BB%E7%BB%9F%E5%BC%95%E5%AF%BC%E4%BF%AE%E5%A4%8D%E6%95%99%E7%A8%8B.md)
+15. [修复 Ubuntu 系统引导](https://github.com/UbuntuBar/userguide/blob/master/system/%E7%B3%BB%E7%BB%9F%E5%BC%95%E5%AF%BC%E4%BF%AE%E5%A4%8D%E6%95%99%E7%A8%8B.md)
 
 # ubuntu指南
 
 ## 系统安装和维护
-15. [给 rm 命令添加回收站](https://github.com/UbuntuBar/userguide/blob/master/system/%E7%BB%99rm%E5%91%BD%E4%BB%A4%E6%B7%BB%E5%8A%A0%E5%9B%9E%E6%94%B6%E7%AB%99.md)
+16. [给 rm 命令添加回收站](https://github.com/UbuntuBar/userguide/blob/master/system/%E7%BB%99rm%E5%91%BD%E4%BB%A4%E6%B7%BB%E5%8A%A0%E5%9B%9E%E6%94%B6%E7%AB%99.md)
 
 ## 系统美化
-16. [关于 GNOME 的美化和折腾](https://github.com/UbuntuBar/userguide/blob/master/visual/%E5%85%B3%E4%BA%8EGNOME%E7%9A%84%E7%BE%8E%E5%8C%96%E5%92%8C%E6%8A%98%E8%85%BE.md)
+17. [关于 GNOME 的美化和折腾](https://github.com/UbuntuBar/userguide/blob/master/visual/%E5%85%B3%E4%BA%8EGNOME%E7%9A%84%E7%BE%8E%E5%8C%96%E5%92%8C%E6%8A%98%E8%85%BE.md)
 
 ## 应用软件
-17. [WPS Office 安装配置完全解析](https://github.com/UbuntuBar/userguide/blob/master/software/WPSOffice%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%9E%90.md)
+18. [WPS Office 安装配置完全解析](https://github.com/UbuntuBar/userguide/blob/master/software/WPSOffice%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%9E%90.md)
 
-18. [关于 Linux 下网易云音乐 1.1 出问题的解决方案](https://github.com/UbuntuBar/userguide/blob/master/software/%E5%85%B3%E4%BA%8ELinux%E4%B8%8B%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%901.1.0%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
+19. [关于 Linux 下网易云音乐 1.1 出问题的解决方案](https://github.com/UbuntuBar/userguide/blob/master/software/%E5%85%B3%E4%BA%8ELinux%E4%B8%8B%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%901.1.0%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
 
-19. [分区克隆工具 Partclone](https://github.com/UbuntuBar/userguide/blob/master/software/%E5%88%86%E5%8C%BA%E5%85%8B%E9%9A%86%E5%B7%A5%E5%85%B7Partclone.md)
+20. [分区克隆工具 Partclone](https://github.com/UbuntuBar/userguide/blob/master/software/%E5%88%86%E5%8C%BA%E5%85%8B%E9%9A%86%E5%B7%A5%E5%85%B7Partclone.md)
 
-20. [CoCoMusic —— 适用于 Linux 的开源版 QQ 音乐](https://github.com/UbuntuBar/userguide/blob/master/software/CoCoMusic-%E9%80%82%E7%94%A8%E4%BA%8ELinux%E7%9A%84%E5%BC%80%E6%BA%90%E7%89%88QQ%E9%9F%B3%E4%B9%90.md)
+21. [CoCoMusic —— 适用于 Linux 的开源版 QQ 音乐](https://github.com/UbuntuBar/userguide/blob/master/software/CoCoMusic-%E9%80%82%E7%94%A8%E4%BA%8ELinux%E7%9A%84%E5%BC%80%E6%BA%90%E7%89%88QQ%E9%9F%B3%E4%B9%90.md)
 
 ## 软硬件问题
 
