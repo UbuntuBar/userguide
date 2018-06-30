@@ -1,5 +1,5 @@
 # 我该如何挑选适合我的 Ubuntu 版本?
-Canonical 针对不同用户开发了各种 Ubuntu 版本，按架构分，可以分为 x86 x64 arm(armel) arm64 powerpc 等等，按用途分可以分为桌面版、服务器版和嵌入式版(Ubuntu Core)，按桌面环境分可以分为 Ubuntu(曾经有段时间使用自己开发的 Unity)、Ubuntu GNOME (17.10 及之后直接称为 Ubuntu ) ，Kubuntu（KDE桌面）、Lubuntu（LXDE桌面）、Xubuntu（Xfce桌面）、Ubuntu Budgie (Budgie 桌面)、Ubuntu MATE（MATE桌面），还有中国定制版的 Ubuntukylin(MATE+本土化壁纸和程序）。
+Canonical 针对不同用户开发了各种 Ubuntu 版本，按架构分，可以分为 x86 x64 arm(armel) arm64 powerpc 等等，按用途分可以分为桌面版、服务器版和嵌入式版(Ubuntu Core)，按桌面环境分可以分为 Ubuntu(曾经有段时间使用自己开发的 Unity)、Ubuntu GNOME (17.10 及之后直接称为 Ubuntu ) ，Kubuntu（KDE桌面）、Lubuntu（LXDE、LxQT 桌面）、Xubuntu（Xfce桌面）、Ubuntu Budgie (Budgie 桌面)、Ubuntu MATE（MATE桌面），还有中国定制版的 Ubuntukylin(MATE+本土化壁纸和程序）。
 
 非官方的 Ubuntu 分支就多了去了，比如著名的 Linux Mint ，基于 FreeBSD 内核的 UbuntuBSD （目前已经 GG），macOS 风格的 elementary OS 。
 
@@ -17,11 +17,11 @@ MATE，但在生产环境中并不推荐这样做)，Server 的话，有些组�
 ## 2. 桌面
 GNOME KDE Budgie Unity 这四个都是重量级的桌面环境，配置不行不建议用。
 
-LXDE MATE Xfce 这三个算比较轻的，当然也比较丑，不过有办法可以美化。
+LXDE LXQT MATE Xfce 这四个算比较轻的，当然也不太好看，不过有办法可以美化。
 
 其他桌面，i3wm 啥的，这些太小众且配置麻烦，不说。
 
-另外，如果你习惯 Windows 操作界面的话可以试试 KDE（但若配置不行就 LXDE）。
+另外，如果你习惯 Windows 操作界面的话可以试试 KDE（但若配置不行就 LXDE/LxQT）。
 
 ## 3. 架构
 x86 在目前来说已经逐步退出舞台，但是对于旧机器来说，x86 是一个比较好的选择，因为占用资源相对来说比较少。
