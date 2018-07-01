@@ -83,8 +83,6 @@ via: https://www.networkworld.com/article/3269189/linux/sharing-files-between-li
 
 本文由 LCTT 原创编译，Linux中国 荣誉推出
 
-LCTT 译者
-
 编译自：https://www.networkworld.com/article/3269189/linux/sharing-files-between-linux-and-windows.html 作者： Sandra Henry-stocker
 
 原创：LCTT https://linux.cn/article-9781-1.html 译者： MjSeven
