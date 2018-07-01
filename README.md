@@ -78,7 +78,12 @@
 
 21. [分区克隆工具 Partclone](https://github.com/UbuntuBar/userguide/blob/master/software/%E5%88%86%E5%8C%BA%E5%85%8B%E9%9A%86%E5%B7%A5%E5%85%B7Partclone.md)
 
-21. [CoCoMusic —— 适用于 Linux 的开源版 QQ 音乐](https://github.com/UbuntuBar/userguide/blob/master/software/CoCoMusic-%E9%80%82%E7%94%A8%E4%BA%8ELinux%E7%9A%84%E5%BC%80%E6%BA%90%E7%89%88QQ%E9%9F%B3%E4%B9%90.md)
+22. [CoCoMusic —— 适用于 Linux 的开源版 QQ 音乐](https://github.com/UbuntuBar/userguide/blob/master/software/CoCoMusic-%E9%80%82%E7%94%A8%E4%BA%8ELinux%E7%9A%84%E5%BC%80%E6%BA%90%E7%89%88QQ%E9%9F%B3%E4%B9%90.md)
+
+## 网络相关内容
+23. [使用 Ubuntu Server 建立一个属于自己的个人网站](https://github.com/UbuntuBar/userguide/blob/master/network/%E4%BD%BF%E7%94%A8UbuntuServer%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99(A%2BP%2BM%2BW).md)
+
+24. [如何在 Linux 和 Windows 之间共享文件](https://github.com/UbuntuBar/userguide/blob/master/network/%E5%A6%82%E4%BD%95%E5%9C%A8Linux%E5%92%8CWindows%E4%B9%8B%E9%97%B4%E5%85%B1%E4%BA%AB%E6%96%87%E4%BB%B6.md)
 
 ## 软硬件问题
 
