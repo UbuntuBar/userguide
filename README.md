@@ -27,65 +27,65 @@
 
 ## 请学会提问以及搜索问题
 
-1. [提问的智慧-如何正确提问](https://github.com/UbuntuBar/userguide/blob/master/other/How-To-Ask-Questions-The-Smart-Way/README-zh_CN.md)
+1. [提问的智慧-如何正确提问](UbuntuBar/userguide/blob/master/other/How-To-Ask-Questions-The-Smart-Way/README-zh_CN.md)
 
 ## 体验或安装ubuntu
 
-2. [我该怎样运行 Ubuntu，实体机安装还是虚拟机安装还是使用 Win10 下的 Linux 子系统](https://github.com/UbuntuBar/userguide/blob/master/starter/%E6%88%91%E8%AF%A5%E6%80%8E%E6%A0%B7%E8%BF%90%E8%A1%8CUbuntu%EF%BC%88%E5%AE%9E%E4%BD%93%E6%9C%BA%E3%80%81%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%BF%98%E6%98%AFWin10%E4%B8%8B%E7%9A%84Linux%E5%AD%90%E7%B3%BB%E7%BB%9F%EF%BC%89.md)
+2. [我该怎样运行 Ubuntu，实体机安装还是虚拟机安装还是使用 Win10 下的 Linux 子系统](UbuntuBar/userguide/blob/master/starter/%E6%88%91%E8%AF%A5%E6%80%8E%E6%A0%B7%E8%BF%90%E8%A1%8CUbuntu%EF%BC%88%E5%AE%9E%E4%BD%93%E6%9C%BA%E3%80%81%E8%99%9A%E6%8B%9F%E6%9C%BA%E8%BF%98%E6%98%AFWin10%E4%B8%8B%E7%9A%84Linux%E5%AD%90%E7%B3%BB%E7%BB%9F%EF%BC%89.md)
 
-3. [如何选择 Ubuntu 版本（桌面、架构之类）](https://github.com/UbuntuBar/userguide/blob/master/starter/%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9Ubuntu%E7%89%88%E6%9C%AC%EF%BC%88%E6%A1%8C%E9%9D%A2%E3%80%81%E6%9E%B6%E6%9E%84%E4%B9%8B%E7%B1%BB%EF%BC%89.md)
+3. [如何选择 Ubuntu 版本（桌面、架构之类）](UbuntuBar/userguide/blob/master/starter/%E5%A6%82%E4%BD%95%E9%80%89%E6%8B%A9Ubuntu%E7%89%88%E6%9C%AC%EF%BC%88%E6%A1%8C%E9%9D%A2%E3%80%81%E6%9E%B6%E6%9E%84%E4%B9%8B%E7%B1%BB%EF%BC%89.md)
 
-4. [已经停止支持或即将停止支持的 Ubuntu 版本列表](https://github.com/UbuntuBar/userguide/blob/master/starter/%E5%B7%B2%E7%BB%8F%E5%81%9C%E6%AD%A2%E6%94%AF%E6%8C%81%E6%88%96%E5%8D%B3%E5%B0%86%E5%81%9C%E6%AD%A2%E6%94%AF%E6%8C%81%E7%9A%84Ubuntu%E7%89%88%E6%9C%AC%E5%88%97%E8%A1%A8.md)
+4. [已经停止支持或即将停止支持的 Ubuntu 版本列表](UbuntuBar/userguide/blob/master/starter/%E5%B7%B2%E7%BB%8F%E5%81%9C%E6%AD%A2%E6%94%AF%E6%8C%81%E6%88%96%E5%8D%B3%E5%B0%86%E5%81%9C%E6%AD%A2%E6%94%AF%E6%8C%81%E7%9A%84Ubuntu%E7%89%88%E6%9C%AC%E5%88%97%E8%A1%A8.md)
 
-5. [系统下载及软件源使用说明](https://github.com/UbuntuBar/userguide/blob/master/starter/%E5%9B%BD%E5%86%85%E5%BC%80%E6%BA%90%E9%95%9C%E5%83%8F%E7%AB%99%E5%9C%B0%E5%9D%80.md)
+5. [系统下载及软件源使用说明](UbuntuBar/userguide/blob/master/starter/%E5%9B%BD%E5%86%85%E5%BC%80%E6%BA%90%E9%95%9C%E5%83%8F%E7%AB%99%E5%9C%B0%E5%9D%80.md)
 
-6. [UEFI 下的 Windows 10 与 Ubuntu 16.04.1 共存安装教程](https://github.com/UbuntuBar/userguide/blob/master/starter/UEFI%E4%B8%8BWin10-Ubuntu%E5%8F%8C%E7%B3%BB%E7%BB%9F%E5%85%B1%E5%AD%98%E6%95%99%E7%A8%8B.md)
+6. [UEFI 下的 Windows 10 与 Ubuntu 16.04.1 共存安装教程](UbuntuBar/userguide/blob/master/starter/UEFI%E4%B8%8BWin10-Ubuntu%E5%8F%8C%E7%B3%BB%E7%BB%9F%E5%85%B1%E5%AD%98%E6%95%99%E7%A8%8B.md)
 
-7. [迁移到 Linux：安装软件](https://github.com/UbuntuBar/userguide/blob/master/starter/迁移到Linux-安装软件.md)
+7. [迁移到 Linux：安装软件](UbuntuBar/userguide/blob/master/starter/迁移到Linux-安装软件.md)
 
-8. [在 Mac 上运行 Ubuntu](https://github.com/UbuntuBar/userguide/blob/master/system/在Mac下运行Ubuntu.md)
+8. [在 Mac 上运行 Ubuntu](UbuntuBar/userguide/blob/master/system/在Mac下运行Ubuntu.md)
 
-9.  [解决 Ubuntu 安装程序提示找不到硬盘的办法](https://github.com/UbuntuBar/userguide/blob/master/starter/%E8%A7%A3%E5%86%B3%E6%97%A0%E6%B3%95%E8%AF%86%E5%88%AB%E7%A1%AC%E7%9B%98%E7%9A%84%E5%8A%9E%E6%B3%95.md)
+9.  [解决 Ubuntu 安装程序提示找不到硬盘的办法](UbuntuBar/userguide/blob/master/starter/%E8%A7%A3%E5%86%B3%E6%97%A0%E6%B3%95%E8%AF%86%E5%88%AB%E7%A1%AC%E7%9B%98%E7%9A%84%E5%8A%9E%E6%B3%95.md)
 
-10. [解决在 VMWare 中安装程序窗口过大的办法](https://github.com/UbuntuBar/userguide/blob/master/starter/%E8%A7%A3%E5%86%B3%E5%9C%A8VMWare%E4%B8%AD%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F%E7%AA%97%E5%8F%A3%E8%BF%87%E5%A4%A7%E7%9A%84%E6%96%B9%E6%B3%95.md)
+10. [解决在 VMWare 中安装程序窗口过大的办法](UbuntuBar/userguide/blob/master/starter/%E8%A7%A3%E5%86%B3%E5%9C%A8VMWare%E4%B8%AD%E5%AE%89%E8%A3%85%E7%A8%8B%E5%BA%8F%E7%AA%97%E5%8F%A3%E8%BF%87%E5%A4%A7%E7%9A%84%E6%96%B9%E6%B3%95.md)
 
 ## 新手使用ubuntu时常见问题
 
-11. [Ubuntu 常用软件推荐](https://github.com/UbuntuBar/userguide/blob/master/starter/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90.md)
+11. [Ubuntu 常用软件推荐](UbuntuBar/userguide/blob/master/starter/%E5%B8%B8%E7%94%A8%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90.md)
 
-12. [下载后点击即可使用的 WineQQ](https://github.com/UbuntuBar/userguide/blob/master/software/Appimage%E6%A0%BC%E5%BC%8F%E7%9A%84WineQQ.md)
+12. [下载后点击即可使用的 WineQQ](UbuntuBar/userguide/blob/master/software/Appimage%E6%A0%BC%E5%BC%8F%E7%9A%84WineQQ.md)
 
-13. [Ubuntu 常见终端命令](https://github.com/UbuntuBar/userguide/blob/master/starter/%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8.md)
+13. [Ubuntu 常见终端命令](UbuntuBar/userguide/blob/master/starter/%E5%B8%B8%E8%A7%81%E5%91%BD%E4%BB%A4%E5%A4%A7%E5%85%A8.md)
 
-14. [解决启动卡死、关机死机的方法](https://github.com/UbuntuBar/userguide/blob/master/starter/%E8%A7%A3%E5%86%B3%E5%85%B3%E6%9C%BA%E6%97%B6%E5%8D%A1%E6%AD%BB%E3%80%81%E5%BC%80%E6%9C%BA%E5%8D%A1%E5%B1%8F%E7%9A%84%E6%96%B9%E6%B3%95.md)
+14. [解决启动卡死、关机死机的方法](UbuntuBar/userguide/blob/master/starter/%E8%A7%A3%E5%86%B3%E5%85%B3%E6%9C%BA%E6%97%B6%E5%8D%A1%E6%AD%BB%E3%80%81%E5%BC%80%E6%9C%BA%E5%8D%A1%E5%B1%8F%E7%9A%84%E6%96%B9%E6%B3%95.md)
 
-15. [解决 Ubuntu 17.10 及之后的版本 GNOME 桌面没有托盘的问题](https://github.com/UbuntuBar/userguide/blob/master/system/%E8%A7%A3%E5%86%B317.10%E5%8F%8A%E4%B9%8B%E5%90%8E%E7%9A%84%E7%89%88%E6%9C%AC%E9%BB%98%E8%AE%A4%E6%A1%8C%E9%9D%A2%E6%B2%A1%E6%9C%89%E6%89%98%E7%9B%98%E7%9A%84%E9%97%AE%E9%A2%98.md)
+15. [解决 Ubuntu 17.10 及之后的版本 GNOME 桌面没有托盘的问题](UbuntuBar/userguide/blob/master/system/%E8%A7%A3%E5%86%B317.10%E5%8F%8A%E4%B9%8B%E5%90%8E%E7%9A%84%E7%89%88%E6%9C%AC%E9%BB%98%E8%AE%A4%E6%A1%8C%E9%9D%A2%E6%B2%A1%E6%9C%89%E6%89%98%E7%9B%98%E7%9A%84%E9%97%AE%E9%A2%98.md)
 
-16. [修复 Ubuntu 系统引导](https://github.com/UbuntuBar/userguide/blob/master/system/%E7%B3%BB%E7%BB%9F%E5%BC%95%E5%AF%BC%E4%BF%AE%E5%A4%8D%E6%95%99%E7%A8%8B.md)
+16. [修复 Ubuntu 系统引导](UbuntuBar/userguide/blob/master/system/%E7%B3%BB%E7%BB%9F%E5%BC%95%E5%AF%BC%E4%BF%AE%E5%A4%8D%E6%95%99%E7%A8%8B.md)
 
 # ubuntu指南
 
 ## 系统安装和维护
-17. [给 rm 命令添加回收站](https://github.com/UbuntuBar/userguide/blob/master/system/%E7%BB%99rm%E5%91%BD%E4%BB%A4%E6%B7%BB%E5%8A%A0%E5%9B%9E%E6%94%B6%E7%AB%99.md)
+17. [给 rm 命令添加回收站](UbuntuBar/userguide/blob/master/system/%E7%BB%99rm%E5%91%BD%E4%BB%A4%E6%B7%BB%E5%8A%A0%E5%9B%9E%E6%94%B6%E7%AB%99.md)
 
-18. [启用 Ubuntu exFAT 分区支持](https://github.com/UbuntuBar/userguide/blob/master/system/启用exFAT支持.md)
+18. [启用 Ubuntu exFAT 分区支持](UbuntuBar/userguide/blob/master/system/启用exFAT支持.md)
 
 ## 系统美化
-19. [关于 GNOME 的美化和折腾](https://github.com/UbuntuBar/userguide/blob/master/visual/%E5%85%B3%E4%BA%8EGNOME%E7%9A%84%E7%BE%8E%E5%8C%96%E5%92%8C%E6%8A%98%E8%85%BE.md)
+19. [关于 GNOME 的美化和折腾](UbuntuBar/userguide/blob/master/visual/%E5%85%B3%E4%BA%8EGNOME%E7%9A%84%E7%BE%8E%E5%8C%96%E5%92%8C%E6%8A%98%E8%85%BE.md)
 
 ## 应用软件
-20.  [WPS Office 安装配置完全解析](https://github.com/UbuntuBar/userguide/blob/master/software/WPSOffice%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%9E%90.md)
+20.  [WPS Office 安装配置完全解析](UbuntuBar/userguide/blob/master/software/WPSOffice%E5%AE%89%E8%A3%85%E9%85%8D%E7%BD%AE%E5%AE%8C%E5%85%A8%E8%A7%A3%E6%9E%90.md)
 
-21.  [关于 Linux 下网易云音乐 1.1 出问题的解决方案](https://github.com/UbuntuBar/userguide/blob/master/software/%E5%85%B3%E4%BA%8ELinux%E4%B8%8B%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%901.1.0%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
+21.  [关于 Linux 下网易云音乐 1.1 出问题的解决方案](UbuntuBar/userguide/blob/master/software/%E5%85%B3%E4%BA%8ELinux%E4%B8%8B%E7%BD%91%E6%98%93%E4%BA%91%E9%9F%B3%E4%B9%901.1.0%E7%9A%84%E8%A7%A3%E5%86%B3%E6%96%B9%E6%A1%88.md)
 
-22.  [分区克隆工具 Partclone](https://github.com/UbuntuBar/userguide/blob/master/software/%E5%88%86%E5%8C%BA%E5%85%8B%E9%9A%86%E5%B7%A5%E5%85%B7Partclone.md)
+22.  [分区克隆工具 Partclone](UbuntuBar/userguide/blob/master/software/%E5%88%86%E5%8C%BA%E5%85%8B%E9%9A%86%E5%B7%A5%E5%85%B7Partclone.md)
 
-23.  [CoCoMusic —— 适用于 Linux 的开源版 QQ 音乐](https://github.com/UbuntuBar/userguide/blob/master/software/CoCoMusic-%E9%80%82%E7%94%A8%E4%BA%8ELinux%E7%9A%84%E5%BC%80%E6%BA%90%E7%89%88QQ%E9%9F%B3%E4%B9%90.md)
+23.  [CoCoMusic —— 适用于 Linux 的开源版 QQ 音乐](UbuntuBar/userguide/blob/master/software/CoCoMusic-%E9%80%82%E7%94%A8%E4%BA%8ELinux%E7%9A%84%E5%BC%80%E6%BA%90%E7%89%88QQ%E9%9F%B3%E4%B9%90.md)
 
 ## 网络相关内容
-24. [使用 Ubuntu Server 建立一个属于自己的个人网站](https://github.com/UbuntuBar/userguide/blob/master/network/%E4%BD%BF%E7%94%A8UbuntuServer%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99(A%2BP%2BM%2BW).md)
+24. [使用 Ubuntu Server 建立一个属于自己的个人网站](UbuntuBar/userguide/blob/master/network/%E4%BD%BF%E7%94%A8UbuntuServer%E5%BB%BA%E7%AB%8B%E4%B8%80%E4%B8%AA%E5%B1%9E%E4%BA%8E%E8%87%AA%E5%B7%B1%E7%9A%84%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99(A%2BP%2BM%2BW).md)
 
-25. [如何在 Linux 和 Windows 之间共享文件](https://github.com/UbuntuBar/userguide/blob/master/network/%E5%A6%82%E4%BD%95%E5%9C%A8Linux%E5%92%8CWindows%E4%B9%8B%E9%97%B4%E5%85%B1%E4%BA%AB%E6%96%87%E4%BB%B6.md)
+25. [如何在 Linux 和 Windows 之间共享文件](UbuntuBar/userguide/blob/master/network/%E5%A6%82%E4%BD%95%E5%9C%A8Linux%E5%92%8CWindows%E4%B9%8B%E9%97%B4%E5%85%B1%E4%BA%AB%E6%96%87%E4%BB%B6.md)
 
 ## 软硬件问题
 
