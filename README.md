@@ -104,4 +104,4 @@ ubuntu吧微信订阅号：![ubuntu吧微信公众号](image/ubuntubaweixinsou3.
 
 # 微信公众号
 
-![ubuntu吧微信公众号二维码](image/ubuntubaweibin.jpg)
+![ubuntu吧微信公众号二维码](image/ubuntubaweixin.jpg)
