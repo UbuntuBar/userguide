@@ -8,7 +8,7 @@
 
 如果您有什么建议或想改进本指南 ，欢迎给我们发 issue 和 pull request，我们将尽快回应。  
 
-ubuntu吧微信订阅号：![ubuntu吧微信公众号](images/ubuntuweixinsou3.png)  
+ubuntu吧微信订阅号：![ubuntu吧微信公众号](image/ubuntubaweixinsou3.png)  
 
 
 # 内容说明
@@ -101,3 +101,7 @@ ubuntu吧微信订阅号：![ubuntu吧微信公众号](images/ubuntuweixinsou3.p
 
 # 鸣谢作者
 指南中会有一些转载自别的地方的内容，在此对原作者表示感谢。
+
+# 微信公众号
+
+![ubuntu吧微信公众号二维码](image/ubuntubaweibin.png)
