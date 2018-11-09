@@ -6,7 +6,10 @@
 
 为了方便 Ubuntu 吧吧友及其他 GNU/Linux 用户，我们在这里建了一份用户指南。
 
-如果您有什么建议或想改进本指南 ，欢迎给我们发 issue 和 pull request，我们将尽快回应。
+如果您有什么建议或想改进本指南 ，欢迎给我们发 issue 和 pull request，我们将尽快回应。  
+
+ubuntu吧微信订阅号：![ubuntu吧微信公众号](images/ubuntuweixinsou3.png)  
+
 
 # 内容说明
 
